@@ -1,4 +1,4 @@
-#include "csce310homework01part02.h"
+#include "johnsonTrotterHeader.h"
 #include <string>
 #include <cstring>
 #include <array>
