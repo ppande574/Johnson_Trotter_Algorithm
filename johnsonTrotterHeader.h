@@ -1,5 +1,5 @@
-#ifndef CSCE310HOMEWORK01PART02_H
-#define CSCE310HOMEWORK01PART02_H
+#ifndef JOHNSONTROTTERHEADER_H
+#define JOHNSONTROTTERHEADER_H
 
 #include <string>
 #include <cstring>
