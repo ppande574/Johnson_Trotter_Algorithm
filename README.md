@@ -9,6 +9,7 @@ Output: n number of permutations
 ex. 
 
 Input: "abcdef", 10
+
 Output: 
     
     abcdef
