@@ -22,3 +22,6 @@ Output:
     afbced
     abfced
     abcfed
+
+
+Compile using "g++ johnsonTrotterMain.cpp" or "g++ -std=c++14 johnsonTrotterMain.cpp"
