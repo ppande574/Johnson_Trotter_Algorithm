@@ -10,6 +10,7 @@ ex.
 
 Input: "abcdef", 10
 Output: 
+    
     abcdef
     abcdfe
     abcfde
