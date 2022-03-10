@@ -1,4 +1,4 @@
-# Johnson_Trotter_Algorithm
+# Johnson Trotter Algorithm
 This program computes all permutations of a lexicographically sorted string using the [Johnson and Trotter algorithm](https://www.geeksforgeeks.org/johnson-trotter-algorithm/). 
 
 It is assumed that the string input is already sorted lexiographically. 
